@@ -1,0 +1,1 @@
+NOTE: you will need to download the Kannada dataset to use the code. Please see https://github.com/vinayprabhu/Kannada_MNIST
